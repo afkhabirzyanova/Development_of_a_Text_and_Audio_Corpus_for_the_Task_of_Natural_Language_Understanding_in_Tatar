@@ -1,0 +1,1 @@
+# Development_of_a_Text_and_Audio_Corpus_for_the_Task_of_Natural_Language_Understanding_in_Tatar
